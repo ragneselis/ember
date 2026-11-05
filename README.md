@@ -6,7 +6,7 @@ Requires macOS 14 or later. Runs on Apple silicon and Intel.
 
 ## Install
 
-1. Download `Ember-0.1.dmg` from [Releases](https://github.com/ragneselis/ember/releases/latest).
+1. Download [Ember.dmg](https://github.com/ragneselis/ember/releases/latest/download/Ember.dmg), the newest version.
 2. Open it and drag Ember onto the Applications folder.
 3. Open Ember from Applications.
 
@@ -22,3 +22,7 @@ Ember isn't notarised by Apple yet, so macOS stops it the first time with a mess
 You only do this once.
 
 When Ember asks to see your browsers, allow it, so it can sort web time by site.
+
+## Updates
+
+Ember updates itself. It checks once a day and offers a new version in its own window; Check for Updates… is in the Ember menu, the menu bar panel and Settings, where you can also turn the daily check off.
