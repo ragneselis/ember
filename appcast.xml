@@ -5,13 +5,5 @@
     <link>https://ragneselis.github.io/ember/appcast.xml</link>
     <description>Updates for Ember, the time tracker for Mac.</description>
     <language>en</language>
-    <item>
-      <title>Version 0.2</title>
-      <pubDate>Thu, 05 Nov 2026 15:50:07 GMT</pubDate>
-      <sparkle:version>0.2</sparkle:version>
-      <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/ragneselis/ember/releases/download/v0.2/Ember-0.2.dmg" type="application/octet-stream" sparkle:edSignature="5je1NdrNFXCKax3DoacODREe1O4sx74POVR0ezPUegedl/rcu0E4AC/RH256mRcoCvkt5zuh8+DXXI5/2XrVCw==" length="4300150"/>
-    </item>
   </channel>
 </rss>
