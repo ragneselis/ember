@@ -6,6 +6,14 @@
     <description>Updates for Ember, the time tracker for Mac.</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.1</title>
+      <pubDate>Fri, 06 Nov 2026 16:10:07 GMT</pubDate>
+      <sparkle:version>0.3.1</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ragneselis/ember/releases/download/v0.3.1/Ember-0.3.1.dmg" type="application/octet-stream" sparkle:edSignature="0RUVI/qb+D88J9pW9Zw6TnBGFwflvCdd122KG62ZMGSSy3FBbvsaPee43uYmQosfrxf/2HCCmnWIwtrWG5gxAA==" length="6607835"/>
+    </item>
+    <item>
       <title>Version 0.3</title>
       <pubDate>Fri, 06 Nov 2026 15:17:00 GMT</pubDate>
       <sparkle:version>0.3</sparkle:version>
