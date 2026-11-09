@@ -1,17 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>Ember</title>
     <link>https://ragneselis.github.io/ember/appcast.xml</link>
     <description>Updates for Ember, the time tracker for Mac.</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.4</title>
+      <pubDate>Mon, 09 Nov 2026 15:02:17 GMT</pubDate>
+      <sparkle:version>0.3.4</sparkle:version>
+      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ragneselis/ember/releases/download/v0.3.4/Ember-0.3.4.dmg" type="application/octet-stream" sparkle:edSignature="NF+wwuIj/SqKuxQ1T73nOcw8xwp8dEzzGXVP2G19XSA0vaqTWnLk3eTZvhIPdUu31sNuh3T6KkqmiO2xuNf8CA==" length="6753773"></enclosure>
+    </item>
+    <item>
       <title>Version 0.3.3</title>
       <pubDate>Sun, 08 Nov 2026 09:06:48 GMT</pubDate>
       <sparkle:version>0.3.3</sparkle:version>
       <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/ragneselis/ember/releases/download/v0.3.3/Ember-0.3.3.dmg" type="application/octet-stream" sparkle:edSignature="TyqdE2Bq8AK11CkgsZAZw3vuiThBKjyAJBXZcgJdbM0VjuLOvvYfiLSF0PcW+sYN1XLBGpYM8j7cDNo8j0NhDw==" length="6655895"/>
+      <enclosure url="https://github.com/ragneselis/ember/releases/download/v0.3.3/Ember-0.3.3.dmg" type="application/octet-stream" sparkle:edSignature="TyqdE2Bq8AK11CkgsZAZw3vuiThBKjyAJBXZcgJdbM0VjuLOvvYfiLSF0PcW+sYN1XLBGpYM8j7cDNo8j0NhDw==" length="6655895"></enclosure>
     </item>
     <item>
       <title>Version 0.3.2</title>
@@ -19,7 +28,7 @@
       <sparkle:version>0.3.2</sparkle:version>
       <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/ragneselis/ember/releases/download/v0.3.2/Ember-0.3.2.dmg" type="application/octet-stream" sparkle:edSignature="yjbD+Xa8r1yc/cXPvKgrayF+Dijk5pNVGGVuwyratpMskxX9T1pKStjRH+1wbqPG6GO45gmxxoGIB59dPyfzCQ==" length="6615090"/>
+      <enclosure url="https://github.com/ragneselis/ember/releases/download/v0.3.2/Ember-0.3.2.dmg" type="application/octet-stream" sparkle:edSignature="yjbD+Xa8r1yc/cXPvKgrayF+Dijk5pNVGGVuwyratpMskxX9T1pKStjRH+1wbqPG6GO45gmxxoGIB59dPyfzCQ==" length="6615090"></enclosure>
     </item>
     <item>
       <title>Version 0.3.1</title>
@@ -27,7 +36,7 @@
       <sparkle:version>0.3.1</sparkle:version>
       <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/ragneselis/ember/releases/download/v0.3.1/Ember-0.3.1.dmg" type="application/octet-stream" sparkle:edSignature="0RUVI/qb+D88J9pW9Zw6TnBGFwflvCdd122KG62ZMGSSy3FBbvsaPee43uYmQosfrxf/2HCCmnWIwtrWG5gxAA==" length="6607835"/>
+      <enclosure url="https://github.com/ragneselis/ember/releases/download/v0.3.1/Ember-0.3.1.dmg" type="application/octet-stream" sparkle:edSignature="0RUVI/qb+D88J9pW9Zw6TnBGFwflvCdd122KG62ZMGSSy3FBbvsaPee43uYmQosfrxf/2HCCmnWIwtrWG5gxAA==" length="6607835"></enclosure>
     </item>
     <item>
       <title>Version 0.3</title>
@@ -35,7 +44,10 @@
       <sparkle:version>0.3</sparkle:version>
       <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/ragneselis/ember/releases/download/v0.3/Ember-0.3.dmg" type="application/octet-stream" sparkle:edSignature="LadFoEO1U5wh9CS8Prb1BwB2dlDsLWXy2ZCkCZoNLXa0Qn/29405gx2/eowhOtIyYegy8pkl5cKzYmiroWkaBQ==" length="6514486"/>
+      <enclosure url="https://github.com/ragneselis/ember/releases/download/v0.3/Ember-0.3.dmg" type="application/octet-stream" sparkle:edSignature="LadFoEO1U5wh9CS8Prb1BwB2dlDsLWXy2ZCkCZoNLXa0Qn/29405gx2/eowhOtIyYegy8pkl5cKzYmiroWkaBQ==" length="6514486"></enclosure>
     </item>
   </channel>
-</rss>
+</rss><!-- sparkle-signatures:
+edSignature: XeyWAxpiHDmX8QIcF/q8JJaWvh3PBA4gcnS3gZv26TnbrmOQQgfuD+wBRHHCO+Tf7ahR1XEWomRM0YZB9iKQDA==
+length: 3507
+-->
