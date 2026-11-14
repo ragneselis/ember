@@ -7,6 +7,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for Ember, the time tracker for Mac.</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.4</title>
+      <pubDate>Sat, 14 Nov 2026 15:28:52 GMT</pubDate>
+      <sparkle:version>0.4.4</sparkle:version>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ragneselis/ember/releases/download/v0.4.4/Ember-0.4.4.dmg" type="application/octet-stream" sparkle:edSignature="dTGe7DTrKq8OOC/BIqqcbWdOoL8cfVj84NA1/7WElp5ezuGsj9oIBz4Od4unS9dDYP6BEiU5wO1mVPe0Uu0vBQ==" length="8408495"></enclosure>
+    </item>
+    <item>
       <title>Version 0.4.3</title>
       <pubDate>Fri, 13 Nov 2026 15:04:23 GMT</pubDate>
       <sparkle:version>0.4.3</sparkle:version>
@@ -80,6 +88,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: LpMMJaOmzDTQSaXW7p4SviJ9bww77L/ibxnvzzQKMp32hE/IqYxqy+VlJBsDix6RVrYnNrZhxOC/mU6+rdAnCw==
-length: 5793
+edSignature: FkLg01F5/vxi7tYj+v2utlvlm9N4gRNcC6sgP0zO7L+t1cCP8X1zhWRpJmnKcCdNjhWtLQBDxhXoI8Xv7yeFDQ==
+length: 6367
 -->
